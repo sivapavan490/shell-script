@@ -1,3 +1,3 @@
 #!/bin/bash
 date=$(date)
-echo "thi script is backing up $date"
+echo "this script is backing up $date"
