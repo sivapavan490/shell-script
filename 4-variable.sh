@@ -5,4 +5,4 @@
 echo "please enter u r username"
 read -s USERNAME
 echo "please enter u r password"
-read PASSWORD
+read -s PASSWORD
